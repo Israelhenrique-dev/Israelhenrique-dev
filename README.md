@@ -2,7 +2,7 @@
 
 ![Israel GitHub stats](https://github-readme-stats.vercel.app/api?username=Israelhenrique-dev&show_icons=true&theme=chartreuse-dark)
 
-## Meus conhecimentos 
+## MMy knowledge 
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
